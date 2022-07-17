@@ -1,5 +1,6 @@
-package com.example.radingyamlfile;
+package com.example.readingyamlfile;
 
+import com.example.readingyamlfile.config.Config;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.CommandLineRunner;

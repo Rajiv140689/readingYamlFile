@@ -1,4 +1,4 @@
-package com.example.radingyamlfile;
+package com.example.readingyamlfile;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

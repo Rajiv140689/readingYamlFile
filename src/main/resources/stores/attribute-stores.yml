@@ -1,0 +1,20 @@
+store:
+  local-base-url: http://attribute-store-query-service
+
+  # User Attribute Store
+  user-attribute-store:
+    name: user
+    island: user
+    base-url: https://attribute-store-query-service.rcp.us-west-2.user.test.exp-aws.net
+
+  #control plane attribute store
+  control-plane-attribute-store:
+    name: controlplane
+    island: controlplane
+    base-url: https://attribute-store-query-service.rcp.us-west-2.controlplane.test.exp-aws.net
+
+  #supply attribute store
+  supply-partner-attribute-store:
+    name: supplypartner
+    island: supplypartner
+    base-url: https://attribute-store-query-service.rcp.us-west-2.supplypartner.test.exp-aws.net

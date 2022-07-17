@@ -1,0 +1,12 @@
+store:
+  # User Attribute Store
+  user-attribute-store:
+    base-url: https://attribute-store-query-service.rcp.us-west-2.user.prod.exp-aws.net
+
+  #control plan attribute store
+  control-plane-attribute-store:
+    base-url: https://attribute-store-query-service.rcp.us-west-2.controlplane.prod.exp-aws.net
+
+  #control plan attribute store
+  supply-partner-attribute-store:
+    base-url: https://attribute-store-query-service.rcp.us-west-2.supplypartner.prod.exp-aws.net
